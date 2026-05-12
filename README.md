@@ -4,7 +4,7 @@ Academic Career Tracker is a web application designed to track the career paths 
 
 ## 🌐 Live Demo
 
-[https://your-vercel-link.vercel.app](https://academic-tracker-frontend.vercel.app/)
+[https://academic-tracker-frontend.vercel.app](https://academic-tracker-frontend.vercel.app/)
 
 ```bash
 Test Login
